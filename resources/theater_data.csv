@@ -1,0 +1,18 @@
+chain_id,chain_name,theater_id,theater_name,movie_id,movie_title,date,showtime,attributes
+1,Regal,1,Regal Aviation Mall,1,The Lion King,7/19/2019,6:00 PM,
+1,Regal,1,Regal Aviation Mall,1,The Lion King,7/19/2019,9:00 PM,IMAX
+1,Regal,2,Regal Crossgates,1,The Lion King,7/18/2019,9:00 PM,EARLY_SHOWING
+1,Regal,2,Regal Crossgates,1,The Lion King,7/19/2019,7:15 PM,
+1,Regal,2,Regal Crossgates,1,The Lion King,7/19/2019,9:15 PM,
+2,Bowtie,3,Criterion Cinemas 11,1,The Lion King,7/19/2019,7:15 PM,
+2,Bowtie,3,Criterion Cinemas 11,1,The Lion King,7/20/2019,10:00 PM,
+3,AMC,4,AMC Kips Bay 15,1,The Lion King,7/19/2019,7:25 PM,
+3,AMC,4,AMC Kips Bay 15,1,The Lion King,7/20/2019,9:10 PM,
+1,Regal,1,Regal Aviation Mall,2,Spiderman: Far From Home,7/19/2019,6:00 PM,
+1,Regal,1,Regal Aviation Mall,2,Spiderman: Far From Home,7/19/2019,9:00 PM,IMAX
+1,Regal,2,Regal Crossgates,2,Spiderman: Far From Home,7/19/2019,7:05 PM,
+1,Regal,2,Regal Crossgates,2,Spiderman: Far From Home,7/19/2019,9:45 PM,IMAX
+2,Bowtie,3,Criterion Cinemas 11,2,Spiderman: Far From Home,7/19/2019,7:15 PM,
+2,Bowtie,3,Criterion Cinemas 11,2,Spiderman: Far From Home,7/20/2019,9:00 PM,
+3,AMC,4,AMC Kips Bay 15,2,Spiderman: Far From Home,7/19/2019,6:15 PM,
+3,AMC,4,AMC Kips Bay 15,2,Spiderman: Far From Home,7/20/2019,8:00 PM,
